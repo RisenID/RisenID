@@ -1,6 +1,6 @@
-![Ruchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryzen5950XT&show_icons=true&theme=dark)
+![Ruchit's GitHub stats](https://risen.vercel.app/api?username=Ryzen5950XT&show_icons=true&theme=dark)
 
-![Ruchit's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryzen5950XT&show_icons=true&theme=dark)
+![Ruchit's GitHub stats](https://risen.vercel.app/api/top-langs/?username=Ryzen5950XT&show_icons=true&theme=dark)
 
 ### Get in touch with me!
 
