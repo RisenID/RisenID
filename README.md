@@ -1,9 +1,7 @@
-![Ruchit's GitHub stats](https://risen.vercel.app/api?username=Ryzen5950XT&show_icons=true&theme=dark)
-
-![Ruchit's GitHub stats](https://risen.vercel.app/api/top-langs/?username=Ryzen5950XT&show_icons=true&theme=dark)
-
-### Get in touch with me!
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white/)](https://t.me/Ryzen5950XT) &nbsp;
-<a href="mailto:ruchitmarathe@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a> &nbsp;
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/499525349109923844)
+<p align="center">
+<img width="50%" src="https://risen.vercel.app/api?username=Ryzen5950XT&show_icons=true&theme=dark&border_color=E50000&icon_color=FF0000">
+<br><br>
+<a href="https://forum.xda-developers.com/m/ryzen5950xt.12060347/" target="_blank"><img hspace="1" height="30" title="XDA" src="https://img.shields.io/badge/XDA-2DAAE9?style=for-the-badge&logo=XDA-Developers&logoColor=white"></a>
+<a href="https://t.me/Ryzen5950XT" target="_blank"><img hspace="1" height="30" title="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+<a href="https://discord.com/users/499525349109923844" target="_blank"><img hspace="1" height="30" title="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"></a>
+</p>
